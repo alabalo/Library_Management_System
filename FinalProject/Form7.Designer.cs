@@ -495,7 +495,7 @@
             this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(73)))));
             this.button5.Font = new System.Drawing.Font("Arial Narrow", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.Color.Transparent;
-            this.button5.Location = new System.Drawing.Point(1109, 252);
+            this.button5.Location = new System.Drawing.Point(1109, 256);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(113, 32);
             this.button5.TabIndex = 19;
