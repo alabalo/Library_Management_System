@@ -260,7 +260,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(194, 38);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Borrowed Books";
+            this.label3.Text = "Browse Books";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // button2
