@@ -54,7 +54,7 @@
             this.button8 = new System.Windows.Forms.Button();
             this.button9 = new System.Windows.Forms.Button();
             this.button10 = new System.Windows.Forms.Button();
-            this.button11 = new System.Windows.Forms.Button();
+            this.Dashboard = new System.Windows.Forms.Button();
             this.button12 = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label7 = new System.Windows.Forms.Label();
@@ -378,20 +378,20 @@
             this.button10.Text = "Fines";
             this.button10.UseVisualStyleBackColor = true;
             // 
-            // button11
+            // Dashboard
             // 
-            this.button11.FlatAppearance.BorderSize = 0;
-            this.button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button11.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button11.ForeColor = System.Drawing.Color.Transparent;
-            this.button11.Image = ((System.Drawing.Image)(resources.GetObject("button11.Image")));
-            this.button11.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button11.Location = new System.Drawing.Point(11, 345);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(241, 45);
-            this.button11.TabIndex = 7;
-            this.button11.Text = "Setting";
-            this.button11.UseVisualStyleBackColor = true;
+            this.Dashboard.FlatAppearance.BorderSize = 0;
+            this.Dashboard.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Dashboard.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Dashboard.ForeColor = System.Drawing.Color.Transparent;
+            this.Dashboard.Image = ((System.Drawing.Image)(resources.GetObject("Dashboard.Image")));
+            this.Dashboard.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.Dashboard.Location = new System.Drawing.Point(11, 345);
+            this.Dashboard.Name = "Dashboard";
+            this.Dashboard.Size = new System.Drawing.Size(241, 45);
+            this.Dashboard.TabIndex = 7;
+            this.Dashboard.Text = "Settings";
+            this.Dashboard.UseVisualStyleBackColor = true;
             // 
             // button12
             // 
@@ -414,7 +414,7 @@
             this.panel1.Controls.Add(this.label7);
             this.panel1.Controls.Add(this.label6);
             this.panel1.Controls.Add(this.button12);
-            this.panel1.Controls.Add(this.button11);
+            this.panel1.Controls.Add(this.Dashboard);
             this.panel1.Controls.Add(this.button10);
             this.panel1.Controls.Add(this.button9);
             this.panel1.Controls.Add(this.button8);
@@ -826,7 +826,7 @@
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Button button11;
+        private System.Windows.Forms.Button Dashboard;
         private System.Windows.Forms.Button button12;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label7;

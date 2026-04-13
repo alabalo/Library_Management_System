@@ -152,7 +152,7 @@
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(241, 45);
             this.button11.TabIndex = 7;
-            this.button11.Text = "Setting";
+            this.button11.Text = "Settings";
             this.button11.UseVisualStyleBackColor = true;
             // 
             // button10
