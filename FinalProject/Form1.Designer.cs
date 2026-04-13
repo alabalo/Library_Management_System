@@ -325,7 +325,7 @@
             this.button7.ForeColor = System.Drawing.Color.Transparent;
             this.button7.Image = ((System.Drawing.Image)(resources.GetObject("button7.Image")));
             this.button7.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button7.Location = new System.Drawing.Point(11, 141);
+            this.button7.Location = new System.Drawing.Point(30, 142);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(241, 45);
             this.button7.TabIndex = 3;
