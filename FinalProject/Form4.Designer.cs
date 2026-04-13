@@ -370,7 +370,6 @@
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.textBox1);
             this.Name = "Form4";
-            this.Text = "Form4";
             this.Load += new System.EventHandler(this.Form4_Load);
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
