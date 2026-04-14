@@ -10,15 +10,21 @@ using System.Windows.Forms;
 
 namespace FinalProject
 {
-    public partial class Form8 : Form
+    public partial class Form4 : Form
     {
-        public Form8()
+        public Form4()
         {
             InitializeComponent();
         }
 
-        private void panel5_Paint(object sender, PaintEventArgs e)
+        private void Form4_Load(object sender, EventArgs e)
         {
-                    }
+
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

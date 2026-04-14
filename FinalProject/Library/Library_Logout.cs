@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FinalProject
+namespace FinalProject.Library
 {
-    public partial class Form4 : Form
+    public partial class Library_Logout : Form
     {
-        public Form4()
+        public Library_Logout()
         {
             InitializeComponent();
-        }
-
-        private void Form4_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
