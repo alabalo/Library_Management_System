@@ -212,7 +212,7 @@
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(241, 45);
             this.button9.TabIndex = 5;
-            this.button9.Text = "Returen Books";
+            this.button9.Text = "Returned Books";
             this.button9.UseVisualStyleBackColor = true;
             // 
             // button8

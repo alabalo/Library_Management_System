@@ -74,7 +74,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(174, 38);
             this.label2.TabIndex = 25;
-            this.label2.Text = "Manage Books";
+            this.label2.Text = "Users";
             // 
             // textBox1
             // 
@@ -158,7 +158,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(100, 46);
             this.button1.TabIndex = 28;
-            this.button1.Text = "Add Book";
+            this.button1.Text = "Add Users";
             this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button1.UseVisualStyleBackColor = true;
             // 
